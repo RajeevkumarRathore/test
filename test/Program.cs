@@ -19,7 +19,7 @@ namespace test
                 .UseApplicationInsights()
                 .Build();
 
-            host.Run();//////
+            host.Run();////////
         }
     }
 }
